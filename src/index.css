@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.nav>li>a.active{
+    background-color: #337ab7 !important;
+    color: #fff !important;
+}
+
+input.form-control{
+    margin-top: 20px;
+}
+
+.btn{
+    margin: 20px 0;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
